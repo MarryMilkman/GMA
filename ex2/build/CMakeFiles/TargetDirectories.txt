@@ -1,0 +1,3 @@
+C:/all_with_prog/GrantMA/ex2/build/CMakeFiles/ex2.dir
+C:/all_with_prog/GrantMA/ex2/build/CMakeFiles/edit_cache.dir
+C:/all_with_prog/GrantMA/ex2/build/CMakeFiles/rebuild_cache.dir

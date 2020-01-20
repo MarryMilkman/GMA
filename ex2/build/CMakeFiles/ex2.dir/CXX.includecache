@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/Dollar.hpp
+lib.h
+../inc/lib.h
+
+../inc/lib.h
+iostream
+-
+vector
+-
+sstream
+-
+fstream
+-
+map
+-
+
+C:/all_with_prog/GrantMA/ex2/src/Dollar.cpp
+Dollar.hpp
+-
+

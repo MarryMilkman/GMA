@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/Case.hpp
+lib.h
+../inc/lib.h
+Chest.hpp
+../inc/Chest.hpp
+
+../inc/Chest.hpp
+lib.h
+../inc/lib.h
+
+../inc/TreasureHunter.hpp
+lib.h
+../inc/lib.h
+Case.hpp
+../inc/Case.hpp
+
+../inc/lib.h
+iostream
+-
+vector
+-
+sstream
+-
+fstream
+-
+map
+-
+
+C:/all_with_prog/GrantMA/ex3/src/TreasureHunter.cpp
+TreasureHunter.hpp
+-
+

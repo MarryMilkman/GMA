@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/lib.h
+iostream
+-
+vector
+-
+sstream
+-
+fstream
+-
+
+C:/all_with_prog/GrantMA/GMA/ex1/src/get_dest_data.cpp
+lib.h
+C:/all_with_prog/GrantMA/GMA/ex1/src/lib.h
+
