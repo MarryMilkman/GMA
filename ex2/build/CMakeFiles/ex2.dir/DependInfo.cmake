@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/all_with_prog/GrantMA/ex2/src/Dollar.cpp" "C:/all_with_prog/GrantMA/ex2/build/CMakeFiles/ex2.dir/src/Dollar.cpp.obj"
-  "C:/all_with_prog/GrantMA/ex2/src/main.cpp" "C:/all_with_prog/GrantMA/ex2/build/CMakeFiles/ex2.dir/src/main.cpp.obj"
+  "C:/all_with_prog/GrantMA/GMA/ex2/src/Dollar.cpp" "C:/all_with_prog/GrantMA/GMA/ex2/build/CMakeFiles/ex2.dir/src/Dollar.cpp.obj"
+  "C:/all_with_prog/GrantMA/GMA/ex2/src/main.cpp" "C:/all_with_prog/GrantMA/GMA/ex2/build/CMakeFiles/ex2.dir/src/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

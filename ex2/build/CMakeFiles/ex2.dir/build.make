@@ -43,10 +43,10 @@ RM = /C/all_with_prog/plugins/cmake/bin/cmake.exe -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /C/all_with_prog/GrantMA/ex2
+CMAKE_SOURCE_DIR = /C/all_with_prog/GrantMA/GMA/ex2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /C/all_with_prog/GrantMA/ex2/build
+CMAKE_BINARY_DIR = /C/all_with_prog/GrantMA/GMA/ex2/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ex2.dir/depend.make
@@ -60,30 +60,30 @@ include CMakeFiles/ex2.dir/flags.make
 CMakeFiles/ex2.dir/src/main.cpp.obj: CMakeFiles/ex2.dir/flags.make
 CMakeFiles/ex2.dir/src/main.cpp.obj: CMakeFiles/ex2.dir/includes_CXX.rsp
 CMakeFiles/ex2.dir/src/main.cpp.obj: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/all_with_prog/GrantMA/ex2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ex2.dir/src/main.cpp.obj"
-	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ex2.dir/src/main.cpp.obj -c /C/all_with_prog/GrantMA/ex2/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/all_with_prog/GrantMA/GMA/ex2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ex2.dir/src/main.cpp.obj"
+	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ex2.dir/src/main.cpp.obj -c /C/all_with_prog/GrantMA/GMA/ex2/src/main.cpp
 
 CMakeFiles/ex2.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ex2.dir/src/main.cpp.i"
-	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /C/all_with_prog/GrantMA/ex2/src/main.cpp > CMakeFiles/ex2.dir/src/main.cpp.i
+	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /C/all_with_prog/GrantMA/GMA/ex2/src/main.cpp > CMakeFiles/ex2.dir/src/main.cpp.i
 
 CMakeFiles/ex2.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ex2.dir/src/main.cpp.s"
-	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /C/all_with_prog/GrantMA/ex2/src/main.cpp -o CMakeFiles/ex2.dir/src/main.cpp.s
+	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /C/all_with_prog/GrantMA/GMA/ex2/src/main.cpp -o CMakeFiles/ex2.dir/src/main.cpp.s
 
 CMakeFiles/ex2.dir/src/Dollar.cpp.obj: CMakeFiles/ex2.dir/flags.make
 CMakeFiles/ex2.dir/src/Dollar.cpp.obj: CMakeFiles/ex2.dir/includes_CXX.rsp
 CMakeFiles/ex2.dir/src/Dollar.cpp.obj: ../src/Dollar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/all_with_prog/GrantMA/ex2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ex2.dir/src/Dollar.cpp.obj"
-	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ex2.dir/src/Dollar.cpp.obj -c /C/all_with_prog/GrantMA/ex2/src/Dollar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/C/all_with_prog/GrantMA/GMA/ex2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ex2.dir/src/Dollar.cpp.obj"
+	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ex2.dir/src/Dollar.cpp.obj -c /C/all_with_prog/GrantMA/GMA/ex2/src/Dollar.cpp
 
 CMakeFiles/ex2.dir/src/Dollar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ex2.dir/src/Dollar.cpp.i"
-	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /C/all_with_prog/GrantMA/ex2/src/Dollar.cpp > CMakeFiles/ex2.dir/src/Dollar.cpp.i
+	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /C/all_with_prog/GrantMA/GMA/ex2/src/Dollar.cpp > CMakeFiles/ex2.dir/src/Dollar.cpp.i
 
 CMakeFiles/ex2.dir/src/Dollar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ex2.dir/src/Dollar.cpp.s"
-	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /C/all_with_prog/GrantMA/ex2/src/Dollar.cpp -o CMakeFiles/ex2.dir/src/Dollar.cpp.s
+	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /C/all_with_prog/GrantMA/GMA/ex2/src/Dollar.cpp -o CMakeFiles/ex2.dir/src/Dollar.cpp.s
 
 # Object files for target ex2
 ex2_OBJECTS = \
@@ -98,10 +98,10 @@ ex2.exe: CMakeFiles/ex2.dir/src/Dollar.cpp.obj
 ex2.exe: CMakeFiles/ex2.dir/build.make
 ex2.exe: CMakeFiles/ex2.dir/linklibs.rsp
 ex2.exe: CMakeFiles/ex2.dir/objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/C/all_with_prog/GrantMA/ex2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ex2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/C/all_with_prog/GrantMA/GMA/ex2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ex2.exe"
 	/C/all_with_prog/plugins/cmake/bin/cmake.exe -E remove -f CMakeFiles/ex2.dir/objects.a
 	/C/all_with_prog/plugins/mingw/mingw32/bin/ar.exe cr CMakeFiles/ex2.dir/objects.a @CMakeFiles/ex2.dir/objects1.rsp
-	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe  -std=c++11 -lpthread   -Wl,--whole-archive CMakeFiles/ex2.dir/objects.a -Wl,--no-whole-archive  -o ex2.exe -Wl,--out-implib,libex2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/ex2.dir/linklibs.rsp
+	/C/all_with_prog/plugins/mingw/mingw32/bin/g++.exe  -std=c++11 -static -lpthread   -Wl,--whole-archive CMakeFiles/ex2.dir/objects.a -Wl,--no-whole-archive  -o ex2.exe -Wl,--out-implib,libex2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/ex2.dir/linklibs.rsp
 
 # Rule to build all files generated by this target.
 CMakeFiles/ex2.dir/build: ex2.exe
@@ -113,6 +113,6 @@ CMakeFiles/ex2.dir/clean:
 .PHONY : CMakeFiles/ex2.dir/clean
 
 CMakeFiles/ex2.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MSYS Makefiles" /C/all_with_prog/GrantMA/ex2 /C/all_with_prog/GrantMA/ex2 /C/all_with_prog/GrantMA/ex2/build /C/all_with_prog/GrantMA/ex2/build /C/all_with_prog/GrantMA/ex2/build/CMakeFiles/ex2.dir/DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MSYS Makefiles" /C/all_with_prog/GrantMA/GMA/ex2 /C/all_with_prog/GrantMA/GMA/ex2 /C/all_with_prog/GrantMA/GMA/ex2/build /C/all_with_prog/GrantMA/GMA/ex2/build /C/all_with_prog/GrantMA/GMA/ex2/build/CMakeFiles/ex2.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ex2.dir/depend
 

@@ -34,7 +34,21 @@ fstream
 map
 -
 
-C:/all_with_prog/GrantMA/ex3/src/TreasureHunter.cpp
+C:/all_with_prog/GrantMA/GMA/ex3/src/Case.cpp
+Case.hpp
+-
+
+C:/all_with_prog/GrantMA/GMA/ex3/src/Chest.cpp
+Chest.hpp
+-
+
+C:/all_with_prog/GrantMA/GMA/ex3/src/TreasureHunter.cpp
 TreasureHunter.hpp
 -
+
+C:/all_with_prog/GrantMA/GMA/ex3/src/main.cpp
+lib.h
+C:/all_with_prog/GrantMA/GMA/ex3/src/lib.h
+TreasureHunter.hpp
+C:/all_with_prog/GrantMA/GMA/ex3/src/TreasureHunter.hpp
 
